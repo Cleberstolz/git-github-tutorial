@@ -63,11 +63,17 @@ O pull request é para sugerir suas alterações para o criador do repositório 
 ### Alguns comandos
 
 git --version => Para ver a versão do git. <br>
+
 git init => para inicializar um repositório na pasta em sua máquina. <br>
+
 git add "nome do arquivo" ou "." para ir tudo => para adicionar o arquivo na área de espera para ser comitado. <br>
+
 git status => Para conferir as mudanças que estão prontas para serem comitadas. <br>
+
 git commit -m "título da alteração" => Para postar as alterações. <br>
+
 git remote add origin "link-do-repositorio-no-github" => para conectar o repositório local com o remoto. <br>
+
 git push -u origin master => Para empurrar os arquivos para o gitHub. <br>
 
 git checkout -b "nome" => para criar uma ramificação ou seja uma branch. <br>
